@@ -1,2 +1,2 @@
-# Data-Analysis-projects
+# My Projects
 EDA Analysis
